@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\idk\\FORM \u0110\u0102NG K\u00DD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6ED57A-FFEA-68AB-B1F1-58427D811A8C}|FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD.csproj|c:\\users\\admin\\source\\idk\\form \u0111\u0103ng k\u00FD\\form \u0111\u0103ng k\u00FD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E6ED57A-FFEA-68AB-B1F1-58427D811A8C}|FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD.csproj|solutionrelative:form \u0111\u0103ng k\u00FD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6ED57A-FFEA-68AB-B1F1-58427D811A8C}|FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD.csproj|c:\\users\\admin\\source\\idk\\form \u0111\u0103ng k\u00FD\\form \u0111\u0103ng k\u00FD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6ED57A-FFEA-68AB-B1F1-58427D811A8C}|FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD.csproj|solutionrelative:form \u0111\u0103ng k\u00FD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6ED57A-FFEA-68AB-B1F1-58427D811A8C}|FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD.csproj|c:\\users\\admin\\source\\idk\\form \u0111\u0103ng k\u00FD\\form \u0111\u0103ng k\u00FD\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6ED57A-FFEA-68AB-B1F1-58427D811A8C}|FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD.csproj|solutionrelative:form \u0111\u0103ng k\u00FD\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\idk\\FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD\\Form1.cs",
+              "RelativeDocumentMoniker": "FORM \u0110\u0102NG K\u00DD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\idk\\FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD\\Form1.cs [Design]",
+              "RelativeToolTip": "FORM \u0110\u0102NG K\u00DD\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T02:10:16.537Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\idk\\FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FORM \u0110\u0102NG K\u00DD\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\idk\\FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD\\Form1.Designer.cs",
+              "RelativeToolTip": "FORM \u0110\u0102NG K\u00DD\\Form1.Designer.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAwJsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T02:27:43.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\idk\\FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD\\Form1.cs",
+              "RelativeDocumentMoniker": "FORM \u0110\u0102NG K\u00DD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\idk\\FORM \u0110\u0102NG K\u00DD\\FORM \u0110\u0102NG K\u00DD\\Form1.cs",
+              "RelativeToolTip": "FORM \u0110\u0102NG K\u00DD\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T02:15:01.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
