@@ -1,0 +1,17 @@
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\bin\Debug\net10.0-windows\bai_thuc_hanh3.exe
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\bin\Debug\net10.0-windows\bai_thuc_hanh3.deps.json
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\bin\Debug\net10.0-windows\bai_thuc_hanh3.runtimeconfig.json
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\bin\Debug\net10.0-windows\bai_thuc_hanh3.dll
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\bin\Debug\net10.0-windows\bai_thuc_hanh3.pdb
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\bai_thuc_hanh3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\bai_thuc_hanh3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\bai_thuc_hanh3.AssemblyInfo.cs
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\bai_thuc_hanh3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\bai_thuc_hanh3.sourcelink.json
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\bai_thuc_hanh3.dll
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\refint\bai_thuc_hanh3.dll
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\bai_thuc_hanh3.pdb
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\bai_thuc_hanh3.genruntimeconfig.cache
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\ref\bai_thuc_hanh3.dll
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\bai_thuc_hanh3.MainForm.resources
+C:\Users\Admin\source\idk\bai_thuc_hanh3\bai_thuc_hanh3\obj\Debug\net10.0-windows\bai_thuc_hanh3.csproj.GenerateResource.cache

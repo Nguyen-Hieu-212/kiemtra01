@@ -1,0 +1,15 @@
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\bin\Debug\net10.0\bài thực hành 2.exe
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\bin\Debug\net10.0\bài thực hành 2.deps.json
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\bin\Debug\net10.0\bài thực hành 2.runtimeconfig.json
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\bin\Debug\net10.0\bài thực hành 2.dll
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\bin\Debug\net10.0\bài thực hành 2.pdb
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\obj\Debug\net10.0\bài thực hành 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\obj\Debug\net10.0\bài thực hành 2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\obj\Debug\net10.0\bài thực hành 2.AssemblyInfo.cs
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\obj\Debug\net10.0\bài thực hành 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\obj\Debug\net10.0\bài thực hành 2.sourcelink.json
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\obj\Debug\net10.0\bài thực hành 2.dll
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\obj\Debug\net10.0\refint\bài thực hành 2.dll
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\obj\Debug\net10.0\bài thực hành 2.pdb
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\obj\Debug\net10.0\bài thực hành 2.genruntimeconfig.cache
+C:\Users\Admin\source\idk\bài thực hành 2\bài thực hành 2\obj\Debug\net10.0\ref\bài thực hành 2.dll

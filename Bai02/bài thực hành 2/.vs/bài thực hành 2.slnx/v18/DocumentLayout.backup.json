@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\idk\\b\u00E0i th\u1EF1c h\u00E0nh 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D678C0D6-6176-4733-92FC-44FD9900C377}|b\u00E0i th\u1EF1c h\u00E0nh 2\\b\u00E0i th\u1EF1c h\u00E0nh 2.csproj|c:\\users\\admin\\source\\idk\\b\u00E0i th\u1EF1c h\u00E0nh 2\\b\u00E0i th\u1EF1c h\u00E0nh 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D678C0D6-6176-4733-92FC-44FD9900C377}|b\u00E0i th\u1EF1c h\u00E0nh 2\\b\u00E0i th\u1EF1c h\u00E0nh 2.csproj|solutionrelative:b\u00E0i th\u1EF1c h\u00E0nh 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\idk\\b\u00E0i th\u1EF1c h\u00E0nh 2\\b\u00E0i th\u1EF1c h\u00E0nh 2\\Program.cs",
+              "RelativeDocumentMoniker": "b\u00E0i th\u1EF1c h\u00E0nh 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\idk\\b\u00E0i th\u1EF1c h\u00E0nh 2\\b\u00E0i th\u1EF1c h\u00E0nh 2\\Program.cs",
+              "RelativeToolTip": "b\u00E0i th\u1EF1c h\u00E0nh 2\\Program.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAQwA8BAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T01:18:54.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
